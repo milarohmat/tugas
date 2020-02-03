@@ -14,7 +14,7 @@ Konsol ANTARES terdapat pada link berikut. Jika anda telah memiliki akun ANTARES
 
 <img width="1280" alt="register1" src="https://user-images.githubusercontent.com/60457179/73624994-8b469c80-4675-11ea-8c3f-d15c69c5fe0b.png"> 
 Gambar 1. Antarmuka Halaman Login
-![image](./gambar/register2.PNG)
+<img width="1264" alt="register2" src="https://user-images.githubusercontent.com/60457179/73625082-f6906e80-4675-11ea-8f90-62e33a52ef79.png">
 Gambar 2. Antarmuka Halaman Registrasi
 
 Setelah mengisi hal-hal yang diperlukan, kami akan mengirim anda email verifikasi. Harap untuk klik tautan yang terdapat pada email tersebut untuk melakukan verifikasi pada akun anda. Jika email verifikasi belum muncul pada email anda, anda bisa klik Resend Verification seperti pada gambar di bawah.
